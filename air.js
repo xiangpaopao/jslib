@@ -1,6 +1,6 @@
 /**
  * 
- * Copyright © 2011-2012 mitian Inc.  All rights reserved.
+ * Copyright © 2011-2014 mitian Inc.  All rights reserved.
  */
 (function( window,undefined ){
   var START_EVENT='ontouchstart' in document.documentElement?"touchstart":"mousedown", 
